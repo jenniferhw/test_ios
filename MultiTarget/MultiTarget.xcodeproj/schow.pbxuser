@@ -1,0 +1,360 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MultiTargetAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {597, 597}}";
+			sepNavSelRange = "{487, 0}";
+			sepNavVisRange = "{0, 834}";
+			sepNavWindowFrame = "{{627, 53}, {656, 725}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MultiTargetAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 468}}";
+			sepNavSelRange = "{651, 0}";
+			sepNavVisRange = "{289, 414}";
+			sepNavWindowFrame = "{{624, 53}, {656, 725}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MultiTarget */ = {
+		activeExec = 0;
+		executables = (
+			2894D0F913799A8500B624DD /* MultiTarget */,
+		);
+	};
+	2894D0F913799A8500B624DD /* MultiTarget */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MultiTarget;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2894D10813799A9B00B624DD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2894D10913799A9B00B624DD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2894D10D1379A80A00B624DD /* MultiTargetLite */ = {
+		activeExec = 0;
+		executables = (
+			2894D10F1379A80A00B624DD /* MultiTargetLite */,
+		);
+	};
+	2894D10F1379A80A00B624DD /* MultiTargetLite */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MultiTargetLite;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2894D1101379A80A00B624DD /* MultiTargetLite-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{2, 53}, {656, 725}}";
+		};
+	};
+	2894D1181379A82700B624DD /* MultiTargetHD */ = {
+		activeExec = 0;
+		executables = (
+			2894D11A1379A82700B624DD /* MultiTargetHD */,
+		);
+	};
+	2894D11A1379A82700B624DD /* MultiTargetHD */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MultiTargetHD;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2894D11B1379A82700B624DD /* MultiTargetHD-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 48}, {656, 725}}";
+		};
+	};
+	2894D2181379B33B00B624DD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2894D1201379B29700B624DD /* default_hd.png */;
+	};
+	2894D21C1379B39600B624DD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2894D1211379B29700B624DD /* default.png */;
+	};
+	2894D22F1379B65600B624DD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MultiTarget-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UILaunchImageFile,
+		);
+		name = "/Users/schow/Code/src/iPhone/GitHub/MultiTarget/MultiTarget-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2894D2531379B85700B624DD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2894D1101379A80A00B624DD /* MultiTargetLite-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/schow/Code/src/iPhone/GitHub/MultiTarget/MultiTargetLite-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2894D26B1379BBB600B624DD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2894D11B1379A82700B624DD /* MultiTargetHD-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/schow/Code/src/iPhone/GitHub/MultiTarget/MultiTargetHD-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2894D2721379BC3200B624DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MultiTargetAppDelegate.h */;
+		name = "MultiTargetAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	2894D2731379BC3200B624DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MultiTarget_Prefix.pch */;
+		name = "MultiTarget_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	2894D27F1379BF7F00B624DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 688;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	2894D3161379D09B00B624DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MultiTargetAppDelegate.m */;
+		name = "MultiTargetAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 524;
+	};
+	2894D3171379D09B00B624DD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MultiTargetViewController.h */;
+	};
+	2894D3191379D09C00B624DD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MultiTargetViewController.h */;
+		name = "MultiTargetViewController.h: 13";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* MultiTargetViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {571, 336}}";
+			sepNavSelRange = "{490, 0}";
+			sepNavVisRange = "{0, 673}";
+			sepNavWindowFrame = "{{15, 48}, {656, 725}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MultiTargetViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {597, 597}}";
+			sepNavSelRange = "{490, 0}";
+			sepNavVisRange = "{0, 923}";
+			sepNavWindowFrame = "{{767, 53}, {656, 725}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2894D0F913799A8500B624DD /* MultiTarget */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MultiTarget */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MultiTarget */,
+			2894D10D1379A80A00B624DD /* MultiTargetLite */,
+			2894D1181379A82700B624DD /* MultiTargetHD */,
+		);
+		codeSenseManager = 2894D10913799A9B00B624DD /* Code sense */;
+		executables = (
+			2894D0F913799A8500B624DD /* MultiTarget */,
+			2894D10F1379A80A00B624DD /* MultiTargetLite */,
+			2894D11A1379A82700B624DD /* MultiTargetHD */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					393,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					353,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326743669;
+			PBXWorkspaceStateSaveDate = 326743669;
+		};
+		perUserProjectItems = {
+			2894D2181379B33B00B624DD /* PBXBookmark */ = 2894D2181379B33B00B624DD /* PBXBookmark */;
+			2894D21C1379B39600B624DD /* PBXBookmark */ = 2894D21C1379B39600B624DD /* PBXBookmark */;
+			2894D22F1379B65600B624DD /* PlistBookmark */ = 2894D22F1379B65600B624DD /* PlistBookmark */;
+			2894D2531379B85700B624DD /* PlistBookmark */ = 2894D2531379B85700B624DD /* PlistBookmark */;
+			2894D26B1379BBB600B624DD /* PlistBookmark */ = 2894D26B1379BBB600B624DD /* PlistBookmark */;
+			2894D2721379BC3200B624DD /* PBXTextBookmark */ = 2894D2721379BC3200B624DD /* PBXTextBookmark */;
+			2894D2731379BC3200B624DD /* PBXTextBookmark */ = 2894D2731379BC3200B624DD /* PBXTextBookmark */;
+			2894D27F1379BF7F00B624DD /* PBXTextBookmark */ = 2894D27F1379BF7F00B624DD /* PBXTextBookmark */;
+			2894D3161379D09B00B624DD /* PBXTextBookmark */ = 2894D3161379D09B00B624DD /* PBXTextBookmark */;
+			2894D3171379D09B00B624DD /* PBXBookmark */ = 2894D3171379D09B00B624DD /* PBXBookmark */;
+			2894D3191379D09C00B624DD /* PBXTextBookmark */ = 2894D3191379D09C00B624DD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2894D10813799A9B00B624DD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {597, 597}}";
+			sepNavSelRange = "{469, 0}";
+			sepNavVisRange = "{0, 691}";
+			sepNavWindowFrame = "{{15, 48}, {656, 725}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MultiTarget_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {670, 597}}";
+			sepNavSelRange = "{446, 0}";
+			sepNavVisRange = "{0, 537}";
+			sepNavWindowFrame = "{{15, 48}, {656, 725}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* MultiTarget-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 48}, {656, 725}}";
+		};
+	};
+}
